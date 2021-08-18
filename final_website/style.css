@@ -1,0 +1,184 @@
+body {
+   text-align: center;
+   background-color: rgb(245, 246, 248);
+}
+.ürünler {
+    margin: 40px;
+    float: left;
+}
+img{
+    margin-right: 10px;
+    float: left;
+}
+.butonlar {
+    padding: 12px 30px;
+    border: 1px ;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(55, 148, 68);
+}
+.textorange{
+    color: rgb(243, 75, 14);
+}
+dt{
+    font-family: sans-serif;
+    color:rgb(114, 109, 109)
+}
+.accessories-w3l {
+    min-height: 482px;
+    padding: 7em 0;
+}
+.img-responsive{
+    width: max-content;
+}
+/*--login--*/
+.login{
+	padding:6em 0;
+}
+.account-grids {
+    margin-top: 2em;
+}
+.main-agileits {
+    width: 30%;
+    margin: 0em auto ;
+	box-shadow: 0px 0px 15px 0px #D6D6D6;
+	-o-box-shadow: 0px 0px 15px 0px #D6D6D6;
+	-moz-box-shadow: 0px 0px 15px 0px #D6D6D6;
+	-webkit-box-shadow: 0px 0px 15px 0px #D6D6D6;
+	padding: 3em ;
+}
+
+.key  input[type="text"] ,.key  input[type="password"]{
+    width: 87%;
+    padding: 10px 10px;
+    font-size: 1em;
+    border: none;
+    border-bottom: none;
+    outline: none;
+    color: #999;
+    float: left;
+    background: none;
+}
+.key i{
+	    float: left;
+    color: #999;
+    font-size: 1.1em;
+    padding: 13px;
+}
+.key {
+    background: #fff;
+    border: 1px solid #999;
+    margin-bottom: 2em;
+}
+.form-w3agile h3{
+    color: #1565C0;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+h3.account-text{
+	color: #1565C0;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+.account-grid h5 {
+    font-size: 1.5em;
+    color: #AF1D0D;
+    margin-bottom: 0.54em;
+}
+.form-w3agile input[type="submit"] {
+    background: #fdb515;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+    border: none;
+    font-size: 1em;
+    outline: none;
+    width: 32%;
+    cursor: pointer;
+    margin-bottom:30px;
+}
+.form-w3agile  input[type="submit"]:hover{
+	background:#AF1D0D;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.account-grid input[type="submit"] {
+    background: #fdb515;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+    border: none;
+    font-size: 1em;
+    outline: none;
+    width: 32%;
+    cursor: pointer;
+    margin-bottom:30px;
+}
+.account-grid  input[type="submit"]:hover{
+	background:#AF1D0D;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.forg a {
+    text-decoration: none;
+    color: #AF1D0D;
+    font-size:1em;
+}
+.forg a:hover{
+	color:#fdb515;
+}
+.forg-left{
+	float:left;
+}
+.forg-right{
+	float:right;
+}
+.form1 input[type="submit"] {
+	margin-bottom:0;
+}
+/*--//login--*/
+
+.cart-count{
+    position: relative;
+    background-color: #d9534f;
+    font-size: 8px;
+    top: -10px;
+    left: -5px;
+}
+.color-danger{
+    color: #d9534f;
+
+}
+.item-count-input{
+    width: 30px;
+    text-align: center;
+}
+.td{
+    vertical-align: middle;
+}
+.tfoot{
+    padding: 20px !important;
+    background-color: #dfdfdf !important;
+}
+.table{
+    box-shadow: 0 0 8px rgba(5,5,5,.3);
+}
+.sepet{
+      
+    position:absolute;
+    left: 15%;
+    width: 1700px;
+    
+}
+
+
+
+
